@@ -1,7 +1,7 @@
 from imageProcessor import MapProcessor as proc
 from solver import Solver as sol
 
-map_name = "map4.png"
+map_name = "maps/map4.png"
 
 
 processor = proc(map_name)
